@@ -1,0 +1,34 @@
+.tx-min-blue{
+  color: rgb(0, 112, 205) !important;
+}
+.fs15px{
+  font-size: 15px !important;
+}
+
+.bg-min-app{
+  background: rgb(226, 230, 234) !important;
+}
+
+.tx-min-yello{
+  color: rgb(255, 182, 36) !important;
+}
+
+.bg-min-yello{
+  background: rgb(255, 182, 36) !important;
+}
+.tx-min-romady{
+  color: rgb(116, 116, 112) !important;
+}
+
+
+.carousel-item ul{
+  list-style: none;
+}
+
+.carousel-item button{
+  transition: all .5s;
+}
+.carousel-item button:hover{
+  background-color: blue !important;
+  color: white !important;
+}
